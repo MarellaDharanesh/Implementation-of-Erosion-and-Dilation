@@ -64,13 +64,16 @@ plt.axis('off')
 ### Display the input Image
 
 
+![download](https://github.com/MarellaDharanesh/Implementation-of-Erosion-and-Dilation/assets/118707669/2b776353-d4cd-48e2-8b83-0d8f58da33eb)
 
 ### Display the Eroded Image
 
+![download](https://github.com/MarellaDharanesh/Implementation-of-Erosion-and-Dilation/assets/118707669/ab955322-6f42-4be0-961c-337858069c12)
 
 
 
 ### Display the Dilated Image
+![download](https://github.com/MarellaDharanesh/Implementation-of-Erosion-and-Dilation/assets/118707669/fd1ce3f4-e324-43dd-bd86-a0598ecf637f)
 
 
 
